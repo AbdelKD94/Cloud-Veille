@@ -35,7 +35,7 @@ Cette section se concentre sur les services et l'architecture du cloud public.
 <details>
 <summary>Qu'est-ce que le Cloud public ?</summary>
 
-[Article]([https://www.example.com/cloud-public-definition](https://www.redhat.com/fr/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud))
+[Article]([(https://www.redhat.com/fr/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud))
 
 <p>Cloud public, privé et hybride : quelles sont les différences, et quel cloud choisir ? - Cet article de Red Hat explique les différents types de cloud computing (public, privé, hybride et multicloud) et les services associés (IaaS, PaaS, SaaS). Il met en avant les avantages et les caractéristiques uniques de chaque type de cloud..</p>
 </details>
