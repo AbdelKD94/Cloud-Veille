@@ -43,19 +43,19 @@ Cette section se concentre sur les services et l'architecture du cloud public.
 ### Articles et résumés sur le Cloud public
 
 <details>
-<summary>Comparaison des services de Cloud public des grands fournisseurs (AWS, Azure, Google Cloud)</summary>
+<summary>Cloud public, privé et hybride : quelles sont les différences, et quel cloud choisir ?</summary>
 
-[Article](https://www.example.com/comparaison-cloud-public)
+[Article](https://www.redhat.com/fr/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud)
 
 <p>Cet article analyse les différentes offres des principaux acteurs du cloud public, en termes de prix, de services, et d'intégration avec des technologies émergentes comme l'intelligence artificielle et la machine learning.</p>
 </details>
 
 <details>
-<summary>L'évolution du Cloud public et son adoption dans les grandes entreprises</summary>
+<summary>Qu’est-ce qu’un cloud public ? - Explication du cloud public - AWS</summary>
 
-[Article](https://www.example.com/adoption-cloud-public-entreprises)
+[Article](https://aws.amazon.com/fr/what-is/public-cloud/)
 
-<p>L'article se penche sur les raisons qui poussent les grandes entreprises à adopter massivement les services de cloud public, notamment pour des questions de scalabilité, flexibilité et rapidité de déploiement.</p>
+<p>AWS propose une explication détaillée du cloud public, décrivant comment les infrastructures informatiques sont proposées sous forme de ressources virtuelles accessibles via Internet. L’article souligne les avantages économiques et opérationnels du cloud public, tels que la capacité de mise à l’échelle et la rentabilité</p>
 </details>
 
 ---
