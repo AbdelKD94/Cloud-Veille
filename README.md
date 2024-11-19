@@ -1,4 +1,4 @@
-Voici la veille complète sur le **Cloud Computing 2024** avec les résumés ajoutés pour chaque section pertinente :
+
 
 # Veille sur le Cloud Computing 2024
 
