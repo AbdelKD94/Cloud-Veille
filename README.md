@@ -138,4 +138,3 @@ Ces tendances montrent une évolution continue vers plus de flexibilité, de sé
 
 ---
 
-Cette veille sur le Cloud Computing 2024 vous offre une vue d'ensemble sur les tendances actuelles, les prévisions de croissance et les événements clés. Vous y trouverez également des ressources pour approfondir vos connaissances et vous préparer aux évolutions du marché.
