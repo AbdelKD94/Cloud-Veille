@@ -36,7 +36,7 @@ Voici la veille complète sur le **Cloud Computing 2024** avec les résumés ajo
 - **Gartner IT Infrastructure** – Décembre 2024, Las Vegas, Nevada.
 - **ISC – International Supercomputing Conference** – Mai 2024, Allemagne.
 
-> *Astuce : Vérifiez les dates et lieux sur les sites officiels avant de planifier.*
+
 
 ---
 
