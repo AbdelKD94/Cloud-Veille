@@ -79,8 +79,7 @@ es tendances montrent une évolution continue vers plus de flexibilité, de séc
 
 
 
-oursuivons notre exploration du Cloud Computing en 2025 en nous concentrant sur les entreprises françaises actives dans ce domaine et en intégrant les actualités les plus récentes.
----
+
 
 ## Entreprises françaises du Cloud
 
@@ -110,6 +109,51 @@ n octobre 2024, Amazon a organisé à Paris un forum sur les métiers numérique
 
 istral AI, une start-up française, a fait sensation début 2024 en développant un modèle d'IA de classe mondiale avec des ressources limitées, obtenant le soutien d'investisseurs notables tels que Nvidia et Andreessen Horowitz, ainsi que du président Emmanuel Macron.ependant, sa progression a été éclipsée par la société chinoise DeepSeek, qui a surpassé ses réalisations.algré ces défis, Mistral continue de croître et vise une introduction en bourse potentielle, tout en restant déterminée à devenir un leader mondial de l'IA.citeturn0news8
 ---
+
+# Entreprises françaises du Cloud
+
+La France compte plusieurs entreprises qui se distinguent dans le domaine du **Cloud Computing**, que ce soit en tant que fournisseurs de services ou en tant qu'utilisatrices innovantes de ces technologies.
+
+---
+
+## 🔧 Fournisseurs de services Cloud
+
+- **OVHcloud** : Leader européen du cloud, OVHcloud propose des solutions de cloud public et privé, d'hébergement et de serveurs dédiés.
+- **Scaleway** : Filiale du groupe Iliad, Scaleway offre une gamme complète de services cloud, incluant des solutions de stockage, de calcul et de réseau.
+- **Outscale** : Filiale de Dassault Systèmes, Outscale fournit des services de cloud computing sécurisés pour les entreprises, avec un accent sur la **souveraineté des données**.
+
+---
+
+## 🚀 Entreprises innovantes utilisant le Cloud
+
+Selon une étude publiée par *Hot Topics* en partenariat avec **F5 Networks**, cinq entreprises françaises se distinguent par leur utilisation innovante du cloud :
+
+1. **BlaBlaCar** : Plateforme de covoiturage qui utilise le cloud pour gérer ses opérations à l'échelle internationale.
+2. **Deezer** : Service de streaming musical qui s'appuie sur le cloud pour distribuer du contenu à des millions d'utilisateurs.
+3. **Airbus** : Géant de l'aéronautique qui utilise le cloud pour améliorer la collaboration et l'innovation dans ses projets.
+4. **SNCF** : La société nationale des chemins de fer français utilise le cloud pour optimiser la gestion de son réseau ferroviaire.
+5. **L'Oréal** : Le leader mondial des cosmétiques utilise le cloud pour améliorer ses opérations et sa relation client.
+
+*Ces entreprises illustrent la diversité des secteurs en France qui tirent parti du cloud pour innover et améliorer leurs performances.*  
+*Source : [USINE-DIGITALE.FR](https://www.usine-digitale.fr)*
+
+---
+
+## 📰 Actualités récentes
+
+### ☁️ Amazon s'investit dans la formation au numérique en France
+En octobre 2024, Amazon a organisé à Paris un **forum sur les métiers numériques**, attirant de nombreux candidats intéressés par l'analyse de données, la cybersécurité et le cloud. **AWS**, la branche de services numériques d'Amazon, prévoit de former **600 000 Français** aux compétences numériques d'ici 2030, en collaboration avec des écoles et des recruteurs.  
+*Source : [LEMONDE.FR](https://www.lemonde.fr) • Octobre 2024*
+
+### 🤖 Mistral AI : Une start-up française prometteuse dans l'IA
+**Mistral AI**, une start-up française, a fait sensation début 2024 en développant un modèle d'IA de classe mondiale avec des ressources limitées, obtenant le soutien d'investisseurs notables tels que **Nvidia** et **Andreessen Horowitz**, ainsi que du président Emmanuel Macron. Cependant, sa progression a été éclipsée par la société chinoise **DeepSeek**, qui a surpassé ses réalisations. Malgré ces défis, Mistral continue de croître et vise une introduction en bourse potentielle.  
+*Source : [FT.COM](https://www.ft.com) • Février 2024*
+
+---
+
+**Dernière mise à jour : 4 février 2025.**  
+*Données à titre informatif – Sujettes à évolution.*
+
 
 *Dernière mise à jour : 4 février 2025.*
 
