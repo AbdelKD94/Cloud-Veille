@@ -1,4 +1,3 @@
-oici une mise à jour de la veille sur le Cloud Computing, intégrant les dernières actualités et mettant en lumière des entreprises françaises actives dans ce domaine.
 # Veille sur le Cloud Computing 2025
 
 ## Sommaire
