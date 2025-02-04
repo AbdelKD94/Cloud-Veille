@@ -77,4 +77,40 @@ es tendances montrent une évolution continue vers plus de flexibilité, de séc
   - ecteurs financiers et gouvernementaux.  - ntreprises avec exigences réglementaires strictes.
 #### Articles recommandés
 
-- 
+
+
+oursuivons notre exploration du Cloud Computing en 2025 en nous concentrant sur les entreprises françaises actives dans ce domaine et en intégrant les actualités les plus récentes.
+---
+
+## Entreprises françaises du Cloud
+
+a France compte plusieurs entreprises qui se distinguent dans le domaine du Cloud Computing, que ce soit en tant que fournisseurs de services ou en tant qu'utilisatrices innovantes de ces technologies.
+### Fournisseurs de services Cloud
+
+- **OVHcloud** : eader européen du cloud, OVHcloud propose des solutions de cloud public et privé, d'hébergement et de serveurs dédiés.
+- **Scaleway** : iliale du groupe Iliad, Scaleway offre une gamme complète de services cloud, incluant des solutions de stockage, de calcul et de réseau.
+- **Outscale** : iliale de Dassault Systèmes, Outscale fournit des services de cloud computing sécurisés pour les entreprises, avec un accent sur la souveraineté des données.
+### Entreprises innovantes utilisant le Cloud
+
+elon une étude publiée par Hot Topics en partenariat avec F5 Networks, cinq entreprises françaises se distinguent par leur utilisation innovante du cloud :
+- **BlaBlaCar** : lateforme de covoiturage qui utilise le cloud pour gérer ses opérations à l'échelle internationale.
+- **Deezer** : ervice de streaming musical qui s'appuie sur le cloud pour distribuer du contenu à des millions d'utilisateurs.
+- **Airbus** : éant de l'aéronautique qui utilise le cloud pour améliorer la collaboration et l'innovation dans ses projets.
+- **SNCF** : a société nationale des chemins de fer français utilise le cloud pour optimiser la gestion de son réseau ferroviaire.
+- **L'Oréal** : e leader mondial des cosmétiques utilise le cloud pour améliorer ses opérations et sa relation client.
+es entreprises illustrent la diversité des secteurs en France qui tirent parti du cloud pour innover et améliorer leurs performances.citeturn0search0
+---
+
+## Actualités récentes
+
+### Amazon s'investit dans la formation au numérique en France
+
+n octobre 2024, Amazon a organisé à Paris un forum sur les métiers numériques, attirant de nombreux candidats intéressés par l'analyse de données, la cybersécurité et le cloud.WS, la branche de services numériques d'Amazon, prévoit de former 600 000 Français aux compétences numériques d'ici 2030, en collaboration avec des écoles et des recruteurs.ette initiative vise à répondre aux besoins croissants en personnel qualifié dans les métiers du numérique en France.citeturn0news7
+### Mistral AI : Une start-up française prometteuse dans l'IA
+
+istral AI, une start-up française, a fait sensation début 2024 en développant un modèle d'IA de classe mondiale avec des ressources limitées, obtenant le soutien d'investisseurs notables tels que Nvidia et Andreessen Horowitz, ainsi que du président Emmanuel Macron.ependant, sa progression a été éclipsée par la société chinoise DeepSeek, qui a surpassé ses réalisations.algré ces défis, Mistral continue de croître et vise une introduction en bourse potentielle, tout en restant déterminée à devenir un leader mondial de l'IA.citeturn0news8
+---
+
+*Dernière mise à jour : 4 février 2025.*
+
+--- 
